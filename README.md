@@ -18,7 +18,7 @@ Cancatenate build/pdfmake.min.js and build/vfs_fonts.js (in this order) to the s
 
 Install via yarn (npm): 
     
-    yarn add https://github.com/EcoLogicAG/pdfmake-browserify.git
+    yarn add https://github.com/zoosky/pdfmake-browserify.git
 
 Use with Angular CLI
 
